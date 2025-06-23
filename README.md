@@ -36,6 +36,8 @@ A beautifully designed, AI-powered mental wellness app that helps users track th
 - 🎴 Organized card-based layout with scrollable sections
 - 🧘 Clean, minimal, and calming interface with emojis and quotes
 - 🔍 Fully responsive (Desktop-first)
+![image](https://github.com/user-attachments/assets/310dfbfc-3bd6-42cd-82be-ae47c52ae02b)
+![image](https://github.com/user-attachments/assets/cebc038d-cf37-4419-835f-6c35c2d719f2)
 
 ---
 
